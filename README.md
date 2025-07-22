@@ -2,6 +2,8 @@
 
 This is an interactive web application built with React and Vite that provides a visual step-by-step simulation of various cache replacement algorithms. It's designed as an educational tool to help understand how different algorithms manage memory and handle page hits and misses.
 
+The example is from the materials of INFR11199 Advanced Database Systems at The University of Edinburgh. Full credit is given to the course.
+
 ## Features
 
 - **Algorithm Visualization**: Simulates and visualizes the following algorithms:

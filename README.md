@@ -36,21 +36,3 @@ The example is from the materials of INFR11199 Advanced Database Systems at The 
 3.  **Enter Page Sequence**: Type the sequence of page requests, separated by spaces or commas.
 4.  **Click Simulate**: Press the "Simulate" button to begin.
 5.  **Navigate**: Use the "Previous Step" and "Next Step" buttons to walk through the simulation and observe the changes in the cache state and statistics.
-
-## Available Scripts
-
-This project was bootstrapped with Vite. In the project directory, you can run:
-
-### `npm run dev`
-
-Runs the app in development mode.<br />
-Open [http://localhost:5173](http://localhost:5173) (or the address shown in your terminal) to view it in the browser. The page will reload if you make edits.
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-### `npm run preview`
-
-Serves the production build from the `dist` folder locally to preview it before deployment.

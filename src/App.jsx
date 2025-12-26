@@ -314,8 +314,9 @@ function App() {
 
 
   return (
-    <div className="container mx-auto p-4 font-sans bg-gray-50 min-h-screen">
-      <h1 className="text-3xl font-bold text-center text-blue-700 mb-6">Cache Replacement Simulator</h1>
+    <div className="min-h-screen bg-gray-50 font-sans">
+      <div className="container mx-auto p-4">
+        <h1 className="text-3xl font-bold text-center text-blue-700 mb-6">Cache Replacement Simulator</h1>
 
       {/* --- Input Area --- */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6 p-4 border border-gray-300 rounded-lg shadow-sm bg-white">
@@ -497,6 +498,7 @@ function App() {
           </div>
         </div>
       )}
+      </div>
     </div>
   );
 }
